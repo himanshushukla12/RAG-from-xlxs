@@ -1,3 +1,4 @@
 openpyxl 
 transformers
 pandas
+notebook
